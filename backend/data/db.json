@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": "admin-1",
+      "name": "Admin",
+      "email": "admin@university.edu",
+      "password": "$2b$10$h1k6Qe0pV/EXAMPLEHASHm3",
+      "role": "admin"
+    },
+    {
+      "id": "013ccbca-85a8-4560-a6db-46cd6cea3752",
+      "name": "Vansh",
+      "email": "tdeskedu@gmail.com",
+      "password": "$2b$10$TXx5rLwx63AtIUCSxRalZO1URmvV/7RXymba5LPe8qQgYl8V1D/CO",
+      "role": "student"
+    }
+    
+  ],
+  "tutorials": [],
+  "ratings": []
+}
